@@ -1,4 +1,0 @@
-yuki.cfg
-========
-
-csgo config
