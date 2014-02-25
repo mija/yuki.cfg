@@ -1,1 +1,1 @@
- +exec autoexec.cfg -console -dxlevel 90 -nod3d9ex -tickrate 128 +mat_vignette_enable 0 -novid -noforcemparms -noforcemspd -noforcemaccel -high -heapsize 1850987 -freq 120 -threads 8
+ +exec autoexec.cfg -console -tickrate 128 +mat_vignette_enable 0 -novid -noforcemparms -noforcemspd -noforcemaccel -high -freq 120 -threads 8
