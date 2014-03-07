@@ -12,3 +12,4 @@ Installation
 ============
 put files into. put launch commands into launchcommands, if you do not how to do this, ignore it.
 Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg
+when using config for first time be sure to write "exec yuki" in console. viewmodel settings might reset occasionally, fix this by execing yuki in console again.
