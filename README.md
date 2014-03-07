@@ -5,7 +5,7 @@ high-fps competitive csgo config
 yuki.cfg contains commands
 userconfig.cfg contains binds
 
-some commands are useless without the binds and viceversa.
+some commands are useless without the binds and viceversa, and some binds need to be changed in both yuki.cfg and userconfig.cfg if you are going to change them.
 
 everything should be easily modifiable as it is well organized. "preference_commands" and "crosshair_commands" are likely what you would be most interested in checking out, together with binds of course.
 
