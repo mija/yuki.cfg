@@ -18,3 +18,7 @@ put the files here;
 Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg
 
 when using config for first time be sure to write "exec yuki" in console. viewmodel settings might reset occasionally, fix this by execing yuki in console again.
+
+Usage
+============
+Press "F2" to see all non-default binds listed in console.
