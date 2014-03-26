@@ -1,1 +1,1 @@
- +exec autoexec.cfg -console -tickrate 128 +mat_vignette_enable 0 -novid -noforcemparms -noforcemspd -noforcemaccel -high -freq 120 -threads 8
+-console -tickrate 128 -novid -noforcemparms -noforcemspd -noforcemaccel -high -freq 120 -threads 8
