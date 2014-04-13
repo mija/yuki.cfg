@@ -22,3 +22,9 @@ when using config for first time be sure to write "exec yuki" in console. viewmo
 Usage
 ============
 Press "F2" to see all non-default binds listed in console.
+
+Helpful Info
+============
+This config supports multiple viewmodel settings and multiple crosshairs. If you use crosshair or viewmodel to line up grenades you can edit the toggles to have both your normal crosshair+viewmodel as well as a viewmodel/crosshair you use to line up your grenades.
+
+The crosshair supports different color for different crosshairs without breaking the nadecolor-binds.
