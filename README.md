@@ -13,9 +13,13 @@ Installation
 ============
 put launch commands into launchcommands, if you do not how to do this, ignore it.
 
-put the files here;
+put the files here (all except radiopanel.txt);
 
 Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg
+
+if you want to use radiopanel.txt (its really not a necessity, and is mostly tailored for dd2 pubheroes) then you'll put it here:
+
+Steam\steamapps\common\Counter-Strike Global Offensive\csgo\resource\ui
 
 when using config for first time be sure to write "exec yuki" in console. viewmodel settings might reset occasionally, fix this by execing yuki in console again.
 
