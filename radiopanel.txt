@@ -158,7 +158,7 @@
 				{
 					"hotkey"	"3"
 					"label"	"Shh, Quiet"
-					"cmd"	"say_team Don't step please, sneaky-beaky like."
+					"cmd"	"say_team Don't step please, be sneaky-beaky like."
 				}
 				
 				"sectorclear"
