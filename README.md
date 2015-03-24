@@ -23,6 +23,11 @@ Steam\steamapps\common\Counter-Strike Global Offensive\csgo\resource\ui
 
 when using config for first time be sure to write "exec yuki" in console. viewmodel settings might reset occasionally, fix this by execing yuki in console again.
 
+quickrcon.cfg, lollollol.cfg and quick.cfg are not needed, add them if you feel they'll be of use to you.
+quick.cfg = training config
+quickrcon.cfg = rcon version of quick (for non-local servers)
+lollollol.cfg = become the MLG pro you always knew you were
+
 Usage
 ============
 Press "F2" to see all non-default binds listed in console.
