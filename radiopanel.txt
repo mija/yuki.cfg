@@ -1,0 +1,195 @@
+"RadioPanel.txt"
+{
+
+//"SFUI_StandardRadio"
+//"SFUI_GroupRadio"	
+//"SFUI_ReportRadio"	
+	"Groups"
+	{
+		"standard"
+		{
+			"hotkey"	"1"
+			"title"	"Attack Commands"
+			"timeout"	"5"
+			
+			"Commands"
+			{
+				"go"
+				{
+					"hotkey"	"1"
+					"label"	"Attack B"
+					"cmd"	"say_team Attack B, bring flash/smoke"
+				}
+				
+				"fallback"
+				{
+					"hotkey"	"4"
+					"label"	"Split A"
+					"cmd"	"say_team Split A, 3 short, 2 long."
+				}
+				
+				"sticktog"
+				{
+					"hotkey"	"3"
+					"label"	"Long Rush"
+					"cmd"	"say_team Long Rush, be fast and be brave."
+				}
+				
+				"holdpos"
+				{
+					"hotkey"	"5"
+					"label"	"Fast Short"
+					"cmd"	"say_team Push Short, be fast and we'll win, ez."
+				}
+				
+				"followme"
+				{
+					"hotkey"	"2"
+					"label"	"Split B"
+					"cmd"	"say_team Split B, 3 mid 2 tunnel."
+				}
+
+
+				"xfollowme"
+				{
+					"hotkey"	"6"
+					"label"	"Play Picks"
+					"cmd"	"say_team Play for picks, search kills, don't rush."
+				}
+			}
+		}
+		
+		"group"
+		{
+			"hotkey"	"2"
+			"title"	"Defensive Commands"
+			"timeout"	"5"
+			
+			"Commands"
+			{
+				"roger"
+				{
+					"hotkey"	"1"
+					"label"	"Care Eco"
+					"cmd"	"say_team Be careful and play safe, eco rush might be coming."
+				}
+				
+				"negative"
+				{
+					"hotkey"	"2"
+					"label"	"Care B"
+					"cmd"	"say_team Care B, push might be coming"
+				}
+				
+				"cheer"
+				{
+					"hotkey"	"3"
+					"label"	"Care A"
+					"cmd"	"say_team Care A, push might be coming"
+				}
+				
+				"compliment"
+				{
+					"hotkey"	"4"
+					"label"	"Enemy Short"
+					"cmd"	"say_team [info] enemy on short"
+				}
+				
+				"thanks"
+				{
+					"hotkey"	"5"
+					"label"	"Enemy Long"
+					"cmd"	"say_team [info] enemy on long"
+				}
+
+				"xthanks"
+				{
+					"hotkey"	"6"
+					"label"	"Enemy T-Mid"
+					"cmd"	"say_team [info] enemy T mid"
+				}
+
+				"xxthanks"
+				{
+					"hotkey"	"7"
+					"label"	"Enemy CT-Mid"
+					"cmd"	"say_team [info] enemy CT mid"
+				}
+
+				"xxxthanks"
+				{
+					"hotkey"	"8"
+					"label"	"Rotate A"
+					"cmd"	"say_team FAST, ROTATE TO A"
+				}
+
+				"xxxxthanks"
+				{
+					"hotkey"	"9"
+					"label"	"Rotate B"
+					"cmd"	"say_team FAST, ROTATE TO B"
+				}
+			}
+		}
+		
+		"report"
+		{
+			"hotkey"	"3"
+			"title"	"Personal Commands"
+			"timeout"	"5"
+			
+			"Commands"
+			{
+				"enemyspot"
+				{
+					"hotkey"	"1"
+					"label"	"Flash 4 Me"
+					"cmd"	"say_team Flash for me, please."
+				}
+				
+				"needbackup"
+				{
+					"hotkey"	"2"
+					"label"	"Smoke 4 Me"
+					"cmd"	"say_team Smoke for me, please."
+				}
+				
+				"takepoint"
+				{
+					"hotkey"	"3"
+					"label"	"Shh, Quiet"
+					"cmd"	"say_team Don't step please, be sneaky-beaky like."
+				}
+				
+				"sectorclear"
+				{
+					"hotkey"	"4"
+					"label"	"Bomb Down"
+					"cmd"	"say_team Bomb down, rotate please!"
+				}
+				
+				"inposition"
+				{
+					"hotkey"	"5"
+					"label"	"Bomb Spotted"
+					"cmd"	"say_team Bomb spotted here"
+				}
+
+				"xinposition"
+				{
+					"hotkey"	"6"
+					"label"	"Boost Me"
+					"cmd"	"say_team Boost me please"
+				}
+
+				"xxinposition"
+				{
+					"hotkey"	"7"
+					"label"	"Crossfire"
+					"cmd"	"say_team Crossfire on me, please."
+				}
+			
+			}
+		}
+	}
+}
