@@ -31,6 +31,16 @@ quickrcon.cfg = rcon version of quick (for non-local servers)
 
 lollollol.cfg = become the MLG pro you always knew you were
 
+Extras (Text Update)
+============
+This will update your text in game, mostly it makes things more easy to read, increases size and what not - it will modify your csgo_english.txt, save a backup if you want to go back to the old one. It will also reset on EVERY UPDATE.
+
+Put aTextUpdate.vbs in your resource folder:
+Steam\steamapps\common\Counter-Strike Global Offensive\csgo\resource
+
+Run aTextUpdate.vbs
+It will update your text file, you're now done. You'll need to re-run it after every update to cs, as it resets on each and every update.
+
 Usage
 ============
 Press "F2" to see all non-default binds listed in console.
