@@ -166,7 +166,7 @@ strNewText = Replace(strNewText,chr(34)&"Master Guardian I"&chr(34), chr(34)&"Ba
 'SFUI_ELO_RankName_12'csgo_english
 strNewText = Replace(strNewText,chr(34)&"Master Guardian II"&chr(34), chr(34)&"Pompous Kalashnikov"&chr(34))
 'SFUI_ELO_RankName_13'csgo_english
-strNewText = Replace(strNewText,chr(34)&"Master Guardian Elite"&chr(34), chr(34)&"Formerly Poorly Aligned Circle"&chr(34))
+strNewText = Replace(strNewText,chr(34)&"Master Guardian Elite"&chr(34), chr(34)&"Properly Aligned Circle"&chr(34))
 'SFUI_ELO_RankName_14'csgo_english
 strNewText = Replace(strNewText,chr(34)&"Distinguished Master Guardian"&chr(34), chr(34)&"Cool Sheriff"&chr(34))
 'SFUI_ELO_RankName_15'csgo_english
