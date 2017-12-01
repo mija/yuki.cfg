@@ -226,25 +226,25 @@ strNewText = Replace(strNewText,chr(34)&"Watching CS:GO Casual", chr(34)&"Watchi
 'SFUI_Lobby_StatusRichPresence_classic_casual_review'csgo_english
 strNewText = Replace(strNewText,chr(34)&"Replaying CS:GO Casual", chr(34)&"Replaying Casual")
 'SFUI_Lobby_StatusRichPresence_classic_competitive_lobby'csgo_english
-strNewText = Replace(strNewText,chr(34)&"In CS:GO Competitive Lobby", chr(34)&"5v5 MM Lobby")
+strNewText = Replace(strNewText,chr(34)&"In CS:GO Competitive Lobby", chr(34)&"5v5 Lobby")
 'SFUI_Lobby_StatusRichPresence_classic_competitive_community'csgo_english
 strNewText = Replace(strNewText,chr(34)&"CS:GO Community Competitive", chr(34)&"FaceIT/ESEA")
 'SFUI_Lobby_StatusRichPresence_competitive_game'csgo_english
-strNewText = Replace(strNewText,chr(34)&"CS:GO Competitive", chr(34)&"5v5 Matchmaking")
+strNewText = Replace(strNewText,chr(34)&"CS:GO Competitive", chr(34)&"Matchmaking")
 'SFUI_Lobby_StatusRichPresence_classic_competitive_watch'csgo_english
-strNewText = Replace(strNewText,chr(34)&"Watching CS:GO", chr(34)&"Watching 5v5 MM")
+strNewText = Replace(strNewText,chr(34)&"Watching CS:GO", chr(34)&"Watching 5v5")
 'SFUI_Lobby_StatusRichPresence_classic_competitive_review'csgo_english
-strNewText = Replace(strNewText,chr(34)&"Replaying CS:GO", chr(34)&"Replaying 5v5 MM")
+strNewText = Replace(strNewText,chr(34)&"Replaying CS:GO", chr(34)&"Replaying 5v5")
 'SFUI_Lobby_StatusRichPresence_scrimcomp2v2_lobby'csgo_english
-strNewText = Replace(strNewText,chr(34)&"In CS:GO Wingman Lobby", chr(34)&"2v2 MM Lobby")
+strNewText = Replace(strNewText,chr(34)&"In CS:GO Wingman Lobby", chr(34)&"2v2 Lobby")
 'SFUI_Lobby_StatusRichPresence_scrimcomp2v2_game'csgo_english
-strNewText = Replace(strNewText,chr(34)&"Playing CS:GO Wingman", chr(34)&"2v2 Matchmaking")
+strNewText = Replace(strNewText,chr(34)&"Playing CS:GO Wingman", chr(34)&"Wingman")
 'SFUI_Lobby_StatusRichPresence_scrimcomp2v2_community'csgo_english
 strNewText = Replace(strNewText,chr(34)&"CS:GO Community Wingman", chr(34)&"Community Wingman")
 'SFUI_Lobby_StatusRichPresence_scrimcomp2v2_watch'csgo_english
-strNewText = Replace(strNewText,chr(34)&"Watching MM Wingman", chr(34)&"Watching 2v2 MM")
+strNewText = Replace(strNewText,chr(34)&"Watching MM Wingman", chr(34)&"Watching 2v2")
 'SFUI_Lobby_StatusRichPresence_scrimcomp2v2_review'csgo_english
-strNewText = Replace(strNewText,chr(34)&"Replaying MM Wingman", chr(34)&"Replaying 2v2 MM")
+strNewText = Replace(strNewText,chr(34)&"Replaying MM Wingman", chr(34)&"Replaying 2v2")
 'SFUI_Lobby_StatusRichPresence_gungame_gungameprogressive_lobby'csgo_english
 strNewText = Replace(strNewText,chr(34)&"In CS:GO Arms Race Lobby", chr(34)&"Arms Race Lobby")
 'SFUI_Lobby_StatusRichPresence_gungame_gungameprogressive_game'csgo_english
