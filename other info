@@ -1,8 +1,9 @@
 400 dpi, windows mouse @ 6/11, mousefix
-logitech g9 v1
+logitech g502 (g9 v1 best mouse though)
 xtrfy keyboard
-hd598 headphones
+hd650 headphones
 xonar essence stx soundcard
-120hz monitor
+165hz gsync monitor
 
-other specs irrelevant, as long as your gpu can handle 120 stable fps, if you have a 144hz screen just raise maxfps to 145.
+other specs irrelevant, as long as your gpu can handle 165 stable fps, if you have less than 165hz monitor i would 
+drop fps to 1 above your hz, unless you have below 100hz monitor, in which case i would set fps_max to 101.
