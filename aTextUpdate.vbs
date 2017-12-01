@@ -210,9 +210,13 @@ strNewText = Replace(strNewText,chr(34)&"Alert", chr(34)&"A lovely message")
 
 
 'SFUI_PlayMenu_FriendsMatchWingmanButton'csgo_english
-strNewText = Replace(strNewText,chr(34)&"PLAY WITH FRIENDS (WINGMAN)", chr(34)&"WINGMAN")
+strNewText = Replace(strNewText,chr(34)&"PLAY WITH FRIENDS (WINGMAN)", chr(34)&"WINGMAN LOBBY")
 'SFUI_PlayMenu_FriendsMatchCompetitiveButton'csgo_english
-strNewText = Replace(strNewText,chr(34)&"PLAY WITH FRIENDS", chr(34)&"MATCHMAKING")
+strNewText = Replace(strNewText,chr(34)&"PLAY WITH FRIENDS", chr(34)&"MATCHMAKING LOBBY")
+'SFUI_PlayMenu_BrowseServersButton'csgo_english	
+strNewText = Replace(strNewText,chr(34)&"BROWSE COMMUNITY SERVERS", chr(34)&"COMMUNITY SERVERS")
+'SFUI_PlayMenu_CustomMatchButton'csgo_english
+strNewText = Replace(strNewText,chr(34)&"FIND A GAME", chr(34)&"SOLO QUEUE")
 
 
 'SFUI_Lobby_StatusRichPresence_classic_casual_lobby'csgo_english
