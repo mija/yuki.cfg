@@ -1,4 +1,4 @@
-"preview"
+added binds
 ========
 https://i.imgur.com/ccRbXRi.png
 
