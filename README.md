@@ -1,3 +1,8 @@
+"preview"
+========
+https://i.imgur.com/ccRbXRi.png
+
+
 yuki.cfg
 ========
 high-fps competitive csgo config
