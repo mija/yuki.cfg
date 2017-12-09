@@ -11,7 +11,7 @@ everything should be easily modifiable as it is well organized. "preference_comm
 
 added binds
 ========
-https://i.imgur.com/ccRbXRi.png
+https://i.imgur.com/xBZ0dsK.png
 
 Installation
 ============
