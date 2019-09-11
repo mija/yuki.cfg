@@ -37,13 +37,16 @@ lollollol.cfg = become the MLG pro you always knew you were
 
 Extras (Text Update)
 ============
-This will update your text in game, mostly it makes things more easy to read, increases size and what not - it will modify your csgo_english.txt, save a backup if you want to go back to the old one. It will also reset on EVERY UPDATE.
+This will update your text in game, mostly it makes things more easy to read, increases size and what not - it will modify your csgo_english.txt, save a backup if you want to go back to the old one. It will no longer reset on every update.
 
 Put aTextUpdate.vbs in your resource folder:
 Steam\steamapps\common\Counter-Strike Global Offensive\csgo\resource
 
 Run aTextUpdate.vbs
-It will update your text file, you're now done. You'll need to re-run it after every update to cs, as it resets on each and every update.
+It will update your text file, you're now done.
+
+WARNING
+A lot of the text will be in Swedish. Not recommended unless you can speak Swedish and appreciate a bit of humor.
 
 Usage
 ============
