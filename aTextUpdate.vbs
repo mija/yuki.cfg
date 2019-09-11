@@ -83,7 +83,7 @@ strNewText = Replace(strNewText,"${+attack} Next Player", "<font size='0'>${+att
 'SFUIHUD_Spectate_Navigation_ToggleOverview'csgo_english
 strNewText = Replace(strNewText,"${+duck} Overview ", "<font size='0'>${+duck} Overview</font>")
 'Player_Cash_Award_Killed_Enemy_Generic'csgo_english
-strNewText = Replace(strNewText," %s1: Award for neutralizing an enemy.", " %s1 dollaridoos awarded for murder.")
+strNewText = Replace(strNewText," %s1: Award for neutralizing an enemy.", " %s1 riksdaler f"&chr(246)&"r mord.")
 'Player_Cash_Award_Killed_Enemy'csgo_english
 strNewText = Replace(strNewText," %s1: Award for neutralizing an enemy with the %s2.", " %s1: Award for neutralizing an enemy with the %s2.")
 'Player_Cash_Award_Kill_Teammate'csgo_english
@@ -162,21 +162,21 @@ strNewText = Replace(strNewText,chr(34)&"Gold Nova III"&chr(34), chr(34)&"PWRLVL
 'SFUI_ELO_RankName_10'csgo_english
 strNewText = Replace(strNewText,chr(34)&"Gold Nova Master"&chr(34), chr(34)&"PWRLVL: Little Brother"&chr(34))
 'SFUI_ELO_RankName_11'csgo_english
-strNewText = Replace(strNewText,chr(34)&"Master Guardian I"&chr(34), chr(34)&"Basic Kalashnikov"&chr(34))
+strNewText = Replace(strNewText,chr(34)&"Master Guardian I"&chr(34), chr(34)&"AK"&chr(34))
 'SFUI_ELO_RankName_12'csgo_english
-strNewText = Replace(strNewText,chr(34)&"Master Guardian II"&chr(34), chr(34)&"Pompous Kalashnikov"&chr(34))
+strNewText = Replace(strNewText,chr(34)&"Master Guardian II"&chr(34), chr(34)&"Fluff-AK"&chr(34))
 'SFUI_ELO_RankName_13'csgo_english
 strNewText = Replace(strNewText,chr(34)&"Master Guardian Elite"&chr(34), chr(34)&"Properly Aligned Circle"&chr(34))
 'SFUI_ELO_RankName_14'csgo_english
-strNewText = Replace(strNewText,chr(34)&"Distinguished Master Guardian"&chr(34), chr(34)&"Cool Sheriff"&chr(34))
+strNewText = Replace(strNewText,chr(34)&"Distinguished Master Guardian"&chr(34), chr(34)&"Tuff Sheriff"&chr(34))
 'SFUI_ELO_RankName_15'csgo_english
-strNewText = Replace(strNewText,chr(34)&"Legendary Eagle"&chr(34), chr(34)&"Freedom Enthusiast"&chr(34))
+strNewText = Replace(strNewText,chr(34)&"Legendary Eagle"&chr(34), chr(34)&"Legendarisk "&chr(214)&"rtman"&chr(34))
 'SFUI_ELO_RankName_16'csgo_english
-strNewText = Replace(strNewText,chr(34)&"Legendary Eagle Master"&chr(34), chr(34)&"Pompous Freedom Enthusiast"&chr(34))
+strNewText = Replace(strNewText,chr(34)&"Legendary Eagle Master"&chr(34), chr(34)&"Otrolig "&chr(214)&"rtm"&chr(228)&"stare"&chr(34))
 'SFUI_ELO_RankName_17'csgo_english
-strNewText = Replace(strNewText,chr(34)&"Supreme Master First Class"&chr(34), chr(34)&"Radio Shack Employee"&chr(34))
+strNewText = Replace(strNewText,chr(34)&"Supreme Master First Class"&chr(34), chr(34)&"Gyllene Kvicken"&chr(34))
 'SFUI_ELO_RankName_18'csgo_english
-strNewText = Replace(strNewText,chr(34)&"The Global Elite"&chr(34), chr(34)&"Virgin"&chr(34))
+strNewText = Replace(strNewText,chr(34)&"The Global Elite"&chr(34), chr(34)&"Ren"&chr(228)&"ssansman"&chr(34))
 
 
 'SFUI_TitlesTXT_Fire_in_the_hole'csgo_english
@@ -184,21 +184,21 @@ strNewText = Replace(strNewText,chr(34)&"Fire in the hole!", chr(34)&"NADE")
 'SFUI_TitlesTXT_Molotov_in_the_hole'csgo_english
 strNewText = Replace(strNewText,chr(34)&"FireBomb on the way!", chr(34)&"KOSKENKORVA!")
 'SFUI_TitlesTXT_Incendiary_in_the_hole'csgo_english
-strNewText = Replace(strNewText,chr(34)&"FireBomb on the way!", chr(34)&"INCENDIARY!")
+strNewText = Replace(strNewText,chr(34)&"FireBomb on the way!", chr(34)&"ELDBOMB!")
 'SFUI_TitlesTXT_Flashbang_in_the_hole'csgo_english
 strNewText = Replace(strNewText,chr(34)&"Flashbang Out!", chr(34)&"FLASH!")
 'SFUI_TitlesTXT_Smoke_in_the_hole'csgo_english
 strNewText = Replace(strNewText,chr(34)&"Smoke Out!", chr(34)&"SMOKE!")
 'SFUI_TitlesTXT_Decoy_in_the_hole'csgo_english
-strNewText = Replace(strNewText,chr(34)&"Decoy Out!", chr(34)&"DECOY!")
+strNewText = Replace(strNewText,chr(34)&"Decoy Out!", chr(34)&"LURING!")
 'Cstrike_TitlesTXT_Defusing_Bomb_With_Defuse_Kit'csgo_english
-strNewText = Replace(strNewText,chr(34)&"Defusing bomb WITH defuse kit.", chr(34)&"Defusing bomb WITH kit")
+strNewText = Replace(strNewText,chr(34)&"Defusing bomb WITH defuse kit.", chr(34)&"Deffar b"&chr(229)&"mb1 MED ett kitt")
 'Cstrike_TitlesTXT_Defusing_Bomb_Without_Defuse_Kit'csgo_english
-strNewText = Replace(strNewText,chr(34)&"Defusing bomb WITHOUT defuse kit.", chr(34)&"Defusing bomb WITHOUT kit")	
+strNewText = Replace(strNewText,chr(34)&"Defusing bomb WITHOUT defuse kit.", chr(34)&"Deffar b"&chr(229)&"mb1 UTAN ett kit")	
 'Cstrike_TitlesTXT_Defusing_Bomb'csgo_english
-strNewText = Replace(strNewText,chr(34)&"I'm defusing the bomb.", chr(34)&"Ensuring freedom...")	
+strNewText = Replace(strNewText,chr(34)&"I'm defusing the bomb.", chr(34)&"Jag lugnar ned situationen.")	
 'Cstrike_TitlesTXT_Planting_Bomb'csgo_english
-strNewText = Replace(strNewText,chr(34)&"I'm planting the bomb.", chr(34)&"SOMEBODY SET US UP THE BOMB")	
+strNewText = Replace(strNewText,chr(34)&"I'm planting the bomb.", chr(34)&"Jag planterar bomben")	
 'SFUI_WinPanel_elo_up_string'csgo_english
 strNewText = Replace(strNewText,chr(34)&"You are now in a higher Skill Group!", chr(34)&"RANKED DA FUK UP!")		
 'SFUI_WinPanel_elo_current_string'csgo_english
@@ -206,8 +206,40 @@ strNewText = Replace(strNewText,chr(34)&"Current Skill Group", chr(34)&"Current 
 'SFUI_WinPanel_elo_down_string'csgo_english
 strNewText = Replace(strNewText,chr(34)&"Your Skill Group has changed", chr(34)&"shit player, shit rank")
 'SFUIHUD_InfoPanel_PriorityMsgTitle'csgo_english
-strNewText = Replace(strNewText,chr(34)&"Alert", chr(34)&"A lovely message")
+strNewText = Replace(strNewText,chr(34)&"Alert", chr(34)&"Ett H"&chr(228)&"rligt Meddelande")
 
+'SFUI_Notice_Alert_Match_Start'csgo_english	
+strNewText = Replace(strNewText,chr(34)&"MATCH START", chr(34)&"NU K"&chr(214)&" VI BOYS")
+'SFUI_Notice_Alert_Match_Starting_In'csgo_english
+strNewText = Replace(strNewText,chr(34)&"<font color='#C6E075'>MATCH STARTING IN %s1...</font>", chr(34)&"<font color='#C6E075'>PANG PANG OM %s1...</font>")
+'SFUI_Notice_Alert_Match_Starting'csgo_english
+strNewText = Replace(strNewText,chr(34)&"<font color='#C6E075'>MATCH STARTING</font>", chr(34)&"<font color='#C6E075'>PANG PANG!</font>")
+'SFUI_Notice_Alert_Warmup_Period'csgo_english
+strNewText = Replace(strNewText,chr(34)&"WARMUP %s1", chr(34)&"PRE-PANG %s1")
+'SFUI_Notice_Alert_Warmup_Period_Ending'csgo_english
+strNewText = Replace(strNewText,chr(34)&"WARMUP ENDING %s1", chr(34)&"SNART K"&chr(214)&" VI %s1")
+'SFUI_Notice_Alert_Waiting_For_Players'csgo_english
+strNewText = Replace(strNewText,chr(34)&"WAITING FOR PLAYERS %s1", chr(34)&"WAITING FOR SLACKERS %s1")
+'SFUI_Notice_All_Players_Connected'csgo_english
+strNewText = Replace(strNewText,chr(34)&"All players have connected. Match will start in %s1 seconds.", chr(34)&"Alla har joinat, startar om %s1 sekunder.")
+'SFUI_Notice_Alert_Final_Round'csgo_english
+strNewText = Replace(strNewText,chr(34)&"FINAL ROUND", chr(34)&"DEN ABSOLUT SISTA RUNDAN")
+'SFUI_Notice_Alert_Last_Round_Half'csgo_english
+strNewText = Replace(strNewText,chr(34)&"LAST ROUND OF FIRST HALF", chr(34)&"SISTA INNAN HALVLEK")
+'SFUI_Notice_Defusing_Bomb_With_Defuse_Kit'csgo_english
+strNewText = Replace(strNewText,chr(34)&"Defusing the bomb.", chr(34)&"Deffar b"&chr(229)&"mb1 MED ett kitt")
+'SFUI_Notice_Defusing_Bomb_Without_Defuse_Kit'csgo_english
+strNewText = Replace(strNewText,chr(34)&"Defusing WITHOUT a defuse kit.", chr(34)&"Deffar b"&chr(229)&"mb1 UTAN ett kit")
+'SFUIHUD_InfoPanel_DefuseText'csgo_english
+strNewText = Replace(strNewText,chr(34)&"You are defusing the bomb.", chr(34)&"Deffar b"&chr(229)&"mb1 MED ett kitt")
+'SFUIHUD_InfoPanel_DefuseText_NoKit'csgo_english
+strNewText = Replace(strNewText,chr(34)&"You are defusing the bomb\nwithout a kit.", chr(34)&"Deffar b"&chr(229)&"mb1 UTAN ett kit")
+'Cstrike_TitlesTXT_Bomb_Planted'csgo_english
+strNewText = Replace(strNewText,chr(34)&"The bomb has been planted.\n%s1 seconds to detonation.", chr(34)&"B"&chr(229)&"mb1 har planterats.\nOm %s1 sekunder sm"&chr(228)&"ller det")
+'Cstrike_TitlesTXT_Bomb_Defused'csgo_english
+strNewText = Replace(strNewText,chr(34)&"The bomb has been defused.", chr(34)&"The b"&chr(229)&"mb har deffats.")
+'SFUIHUD_InfoPanel_DefuseTitle'csgo_english
+strNewText = Replace(strNewText,chr(34)&"Defuse Time:", chr(34)&"vinsten "&chr(228)&"r n"&chr(228)&"ra")
 
 'SFUI_PlayMenu_FriendsMatchWingmanButton'csgo_english
 strNewText = Replace(strNewText,chr(34)&"PLAY WITH FRIENDS (WINGMAN)", chr(34)&"WINGMAN LOBBY")
@@ -218,6 +250,10 @@ strNewText = Replace(strNewText,chr(34)&"BROWSE COMMUNITY SERVERS", chr(34)&"COM
 'SFUI_PlayMenu_CustomMatchButton'csgo_english
 strNewText = Replace(strNewText,chr(34)&"FIND A GAME", chr(34)&"SOLO QUEUE")
 
+'SFUI_Lobby_MatchReadyTitle'csgo_english
+strNewText = Replace(strNewText,chr(34)&"YOUR MATCH IS READY!", chr(34)&"Kom igen nu Britt-Marie")
+'SFUI_Lobby_MatchReadyButton'csgo_english
+strNewText = Replace(strNewText,chr(34)&"ACCEPT", chr(34)&"K"&chr(214)&"R F"&chr(214)&"R FAN")
 
 'SFUI_Lobby_StatusRichPresence_classic_casual_lobby'csgo_english
 strNewText = Replace(strNewText,chr(34)&"In CS:GO Casual Lobby", chr(34)&"Casual Lobby")
@@ -282,14 +318,12 @@ strNewText = Replace(strNewText,chr(34)&"Replaying CS:GO Deathmatch", chr(34)&"R
 'SFUI_Lobby_StatusRichPresence_training_training_game'csgo_english
 strNewText = Replace(strNewText,chr(34)&"Playing CS:GO Weapons Course", chr(34)&"Playing Weapons Course")
 
-
-
 If pink = 6 Then
 strNewText = Replace(strNewText,"", "")
 strNewText = Replace(strNewText,"#ff0080", "#ff0000")
 End If
 If dead = 6 Then
-strNewText = Replace(strNewText,"*DEAD*[", "*DEAD*[")
+strNewText = Replace(strNewText,"*DEAD*[", "*D"&chr(214)&"D*[")
 End If
 Set objFile = objFSO.OpenTextFile("csgo_english.txt", ForWriting, true, -1)
 objFile.WriteLine strNewText
