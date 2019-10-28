@@ -17,9 +17,13 @@ Installation
 ============
 put launch commands into launchcommands, if you do not how to do this, ignore it.
 
-put the files here;
+put all the files except "c4.wav" here;
 
 Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg
+
+put "c4.wav" here;
+
+Steam\steamapps\common\Counter-Strike Global Offensive\csgo\sound
 
 when using config for first time be sure to write "exec yuki" in console. viewmodel settings might reset occasionally, fix this by execing yuki in console again (just write "ae" in console to refresh settings)
 
@@ -30,6 +34,10 @@ quick.cfg = training config
 quickrcon.cfg = rcon version of quick (for non-local servers)
 
 lollollol.cfg = become the MLG pro you always knew you were
+
+dongle.cfg = let yourself become juan with your deagle
+
+zeus.cfg = let lightning rain from above
 
 Extras (Text Update)
 ============
