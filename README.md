@@ -11,21 +11,17 @@ everything should be easily modifiable as it is well organized. "preference_comm
 
 added binds
 ========
-https://i.imgur.com/xBZ0dsK.png
+https://i.imgur.com/xBZ0dsK.png (outdated, press F2 ingame for new list)
 
 Installation
 ============
 put launch commands into launchcommands, if you do not how to do this, ignore it.
 
-put the files here (all except radiopanel.txt);
+put the files here;
 
 Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg
 
-if you want to use radiopanel.txt (its really not a necessity, and is mostly tailored for dd2 pubheroes) then you'll put it here:
-
-Steam\steamapps\common\Counter-Strike Global Offensive\csgo\resource\ui
-
-when using config for first time be sure to write "exec yuki" in console. viewmodel settings might reset occasionally, fix this by execing yuki in console again.
+when using config for first time be sure to write "exec yuki" in console. viewmodel settings might reset occasionally, fix this by execing yuki in console again (just write "ae" in console to refresh settings)
 
 quickrcon.cfg, lollollol.cfg and quick.cfg are not needed, add them if you feel they'll be of use to you.
 
@@ -37,16 +33,12 @@ lollollol.cfg = become the MLG pro you always knew you were
 
 Extras (Text Update)
 ============
-This will update your text in game, mostly it makes things more easy to read, increases size and what not - it will modify your csgo_english.txt, save a backup if you want to go back to the old one. It will no longer reset on every update.
+This will update your text in game, mostly it makes things more easy to read, increases size and what not. This textfile contains some internal jokes in my friendgroup as well as modifying some text to be Swedish. I don't recommend using it unless you speak Swedish.
 
-Put aTextUpdate.vbs in your resource folder:
+Put csgo_yuki.txt in your resource folder:
 Steam\steamapps\common\Counter-Strike Global Offensive\csgo\resource
 
-Run aTextUpdate.vbs
-It will update your text file, you're now done.
-
-WARNING
-A lot of the text will be in Swedish. Not recommended unless you can speak Swedish and appreciate a bit of humor.
+Add "-language yuki" to your launch options.
 
 Usage
 ============
