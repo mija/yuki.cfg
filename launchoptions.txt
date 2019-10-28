@@ -1,1 +1,4 @@
--console -tickrate 128 -novid -noforcemparms -noforcemspd -noforcemaccel -high -freq 165 -threads 8
+-console -language yuki -tickrate 128 -novid -nojoy -noforcemparms -noforcemspd -noforcemaccel  -freq 165
+
+set freq to your monitors hz
+dont include -languge yuki unless you're using my custom language file
