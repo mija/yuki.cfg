@@ -61,7 +61,12 @@ The crosshair supports different color for different crosshairs without breaking
 Thanks
 ============
 Ideas/inspiration/co-operation
+
+
 Maddada
+
 TheElderNigs
+
 KeGaMo
+
 KippaK
