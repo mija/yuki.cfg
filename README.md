@@ -68,5 +68,3 @@ Maddada
 TheElderNigs
 
 KeGaMo
-
-KippaK
