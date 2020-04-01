@@ -48,6 +48,14 @@ Steam\steamapps\common\Counter-Strike Global Offensive\csgo\resource
 
 Add "-language yuki" to your launch options.
 
+Extras (new menu background)
+============
+If you download the file "pf55menu.webm" you can change your menu background in counter-strike: global offensive. I recommend you make copies of the files you will replace in case you want to revert to the original menu appearance. In order to make this work you will need to replace files found here:
+Steam\SteamApps\common\Counter-Strike Global Offensive\csgo\panorama\videos
+With the .webm in question. Rename the "pf55menu.webm" to match the name of the webm used as your menu background. Easiest way to see which one you are supposed to replace is by starting CS:GO and checking what video plays in the background. Find the corresponding video in your folder and copy it to create a backup. Now delete the original and rename "pf55menu.webm" to its file name.
+
+For example if the menu background is sirocco_night.webm you will rename pf55menu.webm as "sirocco.night.webm" and replace it. You might have to do this for the 540p or 720p version if those are being used.
+
 Usage
 ============
 Press "F2" to see all non-default binds listed in console.
