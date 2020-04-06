@@ -2,16 +2,18 @@ yuki.cfg
 ========
 high-fps competitive csgo config
 
+autoexec.cfg is used to "load" the config
 yuki.cfg contains commands
 userconfig.cfg contains binds
+numhelp.cfg contains a keymap over numpad bindings
 
 some commands are useless without the binds and viceversa, and some binds need to be changed in both yuki.cfg and userconfig.cfg if you are going to change them.
 
-everything should be easily modifiable as it is well organized. "preference_commands" and "crosshair_commands" are likely what you would be most interested in checking out, together with binds of course.
+you might want to make changes to "preference_commands" at the top of yuki.cfg. further tinkering with the config beyond this likely requires some basic understanding of how source-engine configs work/look like. feel free to ask me if you need any changes made.
 
 added binds
 ========
-https://i.imgur.com/xBZ0dsK.png (outdated, press F2 ingame for new list)
+https://i.imgur.com/xBZ0dsK.png (very outdated, press F2 ingame for new list)
 
 Installation
 ============
@@ -25,9 +27,9 @@ put "c4.wav" here;
 
 Steam\steamapps\common\Counter-Strike Global Offensive\csgo\sound
 
-when using config for first time be sure to write "exec yuki" in console. viewmodel settings might reset occasionally, fix this by execing yuki in console again (just write "ae" in console to refresh settings)
+when using config for first time be sure to write "exec yuki" in console. if any weirdness happens just write "ae" in console and it will reload the config which should fix it. VERY rarely you might be stuck in an attack animation, hold ALT and press P to fix. (mega rare)
 
-quickrcon.cfg, lollollol.cfg and quick.cfg are not needed, add them if you feel they'll be of use to you.
+quickrcon.cfg, lollollol.cfg, quick.cfg, dongle.cfg and zeus.cfg are not needed, add them if you feel they'll be of use to you.
 
 quick.cfg = training config
 
@@ -38,6 +40,8 @@ lollollol.cfg = become the MLG pro you always knew you were
 dongle.cfg = let yourself become juan with your deagle
 
 zeus.cfg = let lightning rain from above
+
+numhelp.cfg - contains an ascii-image keymap for numpad bindings. strongly recommend you to download this to learn the buybinds.
 
 Extras (Text Update)
 ============
