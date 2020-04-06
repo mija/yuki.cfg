@@ -5,7 +5,7 @@ high-fps competitive csgo config
 autoexec.cfg is used to "load" the config
 yuki.cfg contains commands
 userconfig.cfg contains binds
-numhelp.cfg contains a keymap over numpad bindings
+keyhelp.cfg contains a keymap over buybinds
 
 some commands are useless without the binds and viceversa, and some binds need to be changed in both yuki.cfg and userconfig.cfg if you are going to change them.
 
@@ -41,7 +41,7 @@ dongle.cfg = let yourself become juan with your deagle
 
 zeus.cfg = let lightning rain from above
 
-numhelp.cfg - contains an ascii-image keymap for numpad bindings. strongly recommend you to download this to learn the buybinds.
+keyhelp.cfg - contains an ascii-image keymap for buybinds. strongly recommend you to download this to learn the buybinds.
 
 Extras (Text Update)
 ============
