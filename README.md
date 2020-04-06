@@ -66,6 +66,7 @@ For example if the menu background is sirocco_night.webm you will rename pf55men
 Usage
 ============
 Press "F2" to see all non-default binds listed in console.
+Press "PAGE DOWN" to see map over buybinds in console.
 
 Helpful Info
 ============
