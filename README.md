@@ -19,6 +19,10 @@ https://steamuserimages-a.akamaihd.net/ugc/1003681785838659254/D5CB4E25DB9EBD6B6
 
 Installation
 ============
+Some of the files may be in the "extra stuff" folder. Check there if you cant find something.
+
+
+
 put launch commands into launchcommands, if you do not how to do this, ignore it.
 
 put all the files except "c4.wav" here;
