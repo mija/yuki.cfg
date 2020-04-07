@@ -13,9 +13,11 @@ you might want to make changes to "preference_commands" at the top of yuki.cfg. 
 
 added binds
 ========
-![Image of Non-Default Binds](https://steamuserimages-a.akamaihd.net/ugc/1003681785838658978/8C8037DEFA27C7261B0D1107DEF5958D28FB6960) (probably outdated, press F2 ingame for new list)
+![Image of Non-Default Binds](/images/binds.png) 
 
-![Image of Buybinds](https://steamuserimages-a.akamaihd.net/ugc/1003681785838659254/D5CB4E25DB9EBD6B670D97DD0B832B504EC8D5FA)
+(probably outdated, press F2 ingame for new list)
+
+![Image of Buybinds](/images/buybinds.png)
 
 Installation
 ============
