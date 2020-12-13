@@ -1,3 +1,24 @@
+1080p/1440p crosshair versions
+========
+There is now 1440p versions of crosshairs enabled by default. You might like these even if you play at 1080p but they may also appear too small.
+You can easily swap these to 1080p versions by scrolling down in yuki.cfg to the part below "//aim_toggle"
+Here you will see two versions of each crosshair, one has two // in front of the name, those are 1080p alternatives. To swap to those crosshairs (should be slightly larger) just move the // to the other one.
+
+Example:
+
+alias ch1 "cl_crosshairstyle 5;cl_crosshairdot 0;cl_crosshairgap -1;cl_crosshairsize 2.5;cl_crosshair_drawoutline 0;cl_crosshair_outlinethickness 0;cl_crosshairthickness 0.8;cl_crosshairalpha 255;cl_crosshair_t 1"
+//alias ch1 "cl_crosshairstyle 5;cl_crosshairdot 0;cl_crosshairgap -1;cl_crosshairsize 3.5;cl_crosshair_drawoutline 0;cl_crosshair_outlinethickness 0;cl_crosshairthickness 0.8;cl_crosshairalpha 255;cl_crosshair_t 1"
+
+Move the // to the above one like so:
+
+//alias ch1 "cl_crosshairstyle 5;cl_crosshairdot 0;cl_crosshairgap -1;cl_crosshairsize 2.5;cl_crosshair_drawoutline 0;cl_crosshair_outlinethickness 0;cl_crosshairthickness 0.8;cl_crosshairalpha 255;cl_crosshair_t 1"
+alias ch1 "cl_crosshairstyle 5;cl_crosshairdot 0;cl_crosshairgap -1;cl_crosshairsize 3.5;cl_crosshair_drawoutline 0;cl_crosshair_outlinethickness 0;cl_crosshairthickness 0.8;cl_crosshairalpha 255;cl_crosshair_t 1"
+
+Update notes
+========
+Latest update added the new player ping on ALT+E. It also added the new radial radio menus on C (use scrollwheel to change between them) as well as changing X key to cycle through all old radio panels. Z now functions as a "good half" bind. ALT+. (dot) is a new trashtalk bind.
+GLHF, GH, GG and trashtalk bind is now somewhat more "random" in which phrase is used by having the order change whenever you buy a grenade, this should make it feel less repetitive and not having the same "glhf!" appear on your first game of a session.
+
 yuki.cfg
 ========
 high-fps competitive csgo config
