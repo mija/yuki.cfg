@@ -1,3 +1,9 @@
+BuT yUkI tHe CuRsOR dOnT wORK???!
+========
+Press X after games to get your cursor up, or hold down shift and press Z.
+Since "radio1" is technically not binded anywhere (its stored inside aliases) the game does not know what to display as info text to show cursor.
+During games Z should still work fine (on scoreboard + on spraymenu)
+
 1080p/1440p crosshair versions
 ========
 There is now 1440p versions of crosshairs enabled by default. You might like these even if you play at 1080p but they may also appear too small.
